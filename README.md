@@ -108,8 +108,6 @@ A cloud-native e-commerce infrastructure built on AWS, designed for high availab
 
 **Tech:** AWS VPC · EC2 Auto Scaling · Application Load Balancer · CloudFront · RDS Multi-AZ · ECS · Secrets Manager · IAM · Docker · GitHub Actions
 
-🔗 [View Repository](#) *(link coming soon)*
-
 ---
 
 ### ⚙️ Distributed E-Commerce Microservices Platform
@@ -117,16 +115,12 @@ A distributed microservices system for order management, built around event-driv
 
 **Tech:** Java · Spring Boot · Apache Kafka · Eureka · API Gateway · Redis
 
-🔗 [View Repository](#) *(link coming soon)*
-
 ---
 
 ### 🚗 CabConnect — Full-Stack Ride Management Platform
 A full-stack ride management application covering ride booking, trip tracking, and user profile management. The backend is built with Spring Boot and secured using Spring Security with JWT authentication. The frontend uses React.js and Next.js with Redux Toolkit for state management and Tailwind CSS for responsive UI design, backed by PostgreSQL.
 
 **Tech:** React.js · Next.js · Spring Boot · PostgreSQL · Spring Security · JWT · Redux Toolkit · Tailwind CSS
-
-🔗 [View Repository](#) *(link coming soon)*
 
 ---
 
